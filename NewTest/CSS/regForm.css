@@ -1,0 +1,19 @@
+/* .panda{
+    background-image: url("./lightPan.png.jpg") fixed !important;
+    background-size:cover;
+    background-color: #525252;
+} */
+body{
+    background-image: url("./lightPan.png.jpg")  !important;
+    background-size: fill ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+}
+
+/* try making the card slightlty transparent
+-fix the text so that it shrinks with smaller screens/devices
+  - also try making an exit option
+  - free time>start making homepage w/navigation
+  - try to work on animation for fading homepage then panda silhouette
+  appear then magnifying glass= registration card appear*/
